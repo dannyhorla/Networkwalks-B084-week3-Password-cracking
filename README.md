@@ -263,6 +263,20 @@ I successfully recovered the passwords of four locked PDF documents, verified ea
 
 This project represents another step in my cybersecurity learning journey, particularly in understanding password security, authentication weaknesses, and the practical use of offensive security tools.
 
+
+# 👤 Author
+
+**Adebayo Olaoluwa**\
+Cybersecurity Intern B084
+
+LinkedIn: https://www.linkedin.com/in/adebayo-olaoluwa-4a08b6404?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity internship at Networkwalks | **Week:** 03 | **Project:** Password cracking | **Repository:** GitHub
+
 **Project Status: COMPLETED**
 
 ---
